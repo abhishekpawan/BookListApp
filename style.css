@@ -1,0 +1,14 @@
+#msg {
+    display: none;
+}
+#msg2 {
+    display: none;
+}
+#msg3 {
+    display: none;
+}
+@media(min-width: 700px){
+    .container {
+    width: 600px;
+    }
+}
