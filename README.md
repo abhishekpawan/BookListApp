@@ -40,6 +40,7 @@ Also this can save data to Local Storage, so your Added Books will not be vanish
 ## 🏗️: Built With
 
 - HTML
+- CSS
 - Bootstrap
 - Javascript
 
