@@ -25,7 +25,9 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-screenshots
+<div align="center">
+    <img src="https://github.com/abhishekpawan/BookListApp/blob/main/booklistmockups.png" alt="projectmockups" width=70%>
+    </div>
 
 This is a simple Book List Web App using #html5 #bootstrap5 and #javascript.
 In this you can Add and Delete books which will contain Book Name, Author Name and Book ID(ISBN#).
