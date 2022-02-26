@@ -84,10 +84,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
--**Check my portfolio: [abishekpawan.me](https://abishekpawan.me) 😁** 
--**LinkedIn: [Abhishek Pawan](https://linkedin.com/in/abhishekpawan)**
--**Twitter: [@non_altruistic](https://twitter.com/non_altruistic)**
--**Mail: abhishekpawan297@gmail.com**
+###### Check my portfolio: [abishekpawan.me](https://abishekpawan.me) 😁
+###### LinkedIn: [Abhishek Pawan](https://linkedin.com/in/abhishekpawan)
+###### Twitter: [@non_altruistic](https://twitter.com/non_altruistic)
+###### Mail: abhishekpawan297@gmail.com
 
 ### Made with my love of development ❤
 
