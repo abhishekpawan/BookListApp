@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/abhishekpawan/BookListApp/blob/main/booklistapptitleimg.png" alt="projecttitlelogo" >
+    <img src="https://github.com/abhishekpawan/BookListApp/blob/main/booklistapptitleimg.png" alt="projecttitlelogo" width=60%>
 
   <h3 align="center">Book List App</h3>
 
