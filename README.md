@@ -5,16 +5,8 @@
     <img src="https://github.com/abhishekpawan/BookListApp/blob/main/booklistapptitleimg.png" alt="projecttitlelogo" width=70%>
 
   <h3 align="center">Book List App</h3>
+    <a href="https://abhishekpawan.me/BookListApp/">View Demo</a> | <a href="https://github.com/abhishekpawan/BookListApp/issues">Report Bug</a>
 
-  <p align="center">
-    A Simple book list appliction!
-    <br />
-
-<br />
-    <a href="https://abhishekpawan.me/BookListApp/">View Demo</a>
-    ·
-    <a href="https://github.com/abhishekpawan/BookListApp/issues">Report Bug</a>
-    ·
   </p>
 </div>
 
